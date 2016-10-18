@@ -10,6 +10,11 @@ Thank you and have a nice day!
 
 ====================================
 
+# Description:
 
 Server can be accessed via the Internet through TCP/IP protocols and socket interface. Client will control the server by using Unix commands to accomplish the remote interaction. At the meantime, the server can contacted with a amount of clients by calling children procedure.
+
+# Technology and Tools:
+
+C, Sublime, Terminal
 
